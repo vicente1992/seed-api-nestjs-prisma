@@ -28,7 +28,7 @@
 
 ## Clonar el proyecto
 
-git clone https://gitlab.com/retogame-leifer/backen-nests.git
+git clone https://github.com/vicente1992/seed-api-nestjs-prisma
 
 npm install
 
@@ -47,4 +47,4 @@ $ npm run start:prod
 
 ## Documentación de la api
 
-Puedes tener acceso a las documentación de la api en el siguiente link _http://localhost:3000/documentation/#/_
+Puedes tener acceso a las documentación de la api en el siguiente link _http://localhost:3000/api/documentation/#/_
